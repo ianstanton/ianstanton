@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello!
+
+![ianstanton’s Github Metrics](https://github.com/ianstanton/ianstanton/blob/main/github-metrics.svg)
 
 <!--
 **ianstanton/ianstanton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
