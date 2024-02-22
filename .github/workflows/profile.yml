@@ -14,20 +14,20 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
-          user: ianstanton
-          template: classic
-          config_gemoji: yes # use additional non-unicode emoji
-          config_timezone: America/New_York
-          retries: 3
-          retries_delay: 300
-#          use_prebuilt_image: yes # faster execution
-          base: header
-          plugin_isocalendar: yes
-          plugin_languages: yes
-          plugin_stars: yes
-          config_order: base.header, isocalendar, languages, stars
+#
+#          # Options
+#          user: ianstanton
+#          template: classic
+#          config_gemoji: yes # use additional non-unicode emoji
+#          config_timezone: America/New_York
+#          retries: 3
+#          retries_delay: 10
+##          use_prebuilt_image: yes # faster execution
+#          base: header
+#          plugin_isocalendar: yes
+#          plugin_languages: yes
+#          plugin_stars: yes
+#          config_order: base.header, isocalendar, languages, stars
 
 
 #          # base
